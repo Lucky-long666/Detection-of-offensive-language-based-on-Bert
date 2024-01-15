@@ -1,0 +1,2 @@
+## About
+The Natural Language Processing project targets the challenging offensive language detection task that aims to detect whether a text is considered offensive or non-offensive. The key methodology involves utilizing BERT's contextual embeddings and pre-trained language understanding to capture the nuanced features associated with offensive language. The model is fine-tuned on labeled datasets containing instances of offensive language, enabling it to generalize and identify offensive patterns across various contexts. 
